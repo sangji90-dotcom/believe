@@ -1,4 +1,4 @@
-# Rental Project (물건 대여 사이트)
+# Belive Project (물건 대여 사이트)
 
 ## 📌 프로젝트 소개
 
